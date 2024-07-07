@@ -1,0 +1,4 @@
+requests==2.26.0
+scrapy==2.11.2
+selenium==4.22.0
+tqdm==4.62.3
